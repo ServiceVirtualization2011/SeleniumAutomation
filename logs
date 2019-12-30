@@ -1,0 +1,9 @@
+Hello world...! 
+
+[TRACE] 2019-12-23 20:22:15.422 [main] Day7Log4demo - this is trace msg
+[INFO ] 2019-12-23 20:22:15.427 [main] Day7Log4demo - This is info msg
+[ERROR] 2019-12-23 20:22:15.428 [main] Day7Log4demo - This is err msg
+[WARN ] 2019-12-23 20:22:15.428 [main] Day7Log4demo - this is warn msg
+[FATAL] 2019-12-23 20:22:15.428 [main] Day7Log4demo - This is fatal msg
+null
+Test Completed
